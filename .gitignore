@@ -1,3 +1,5 @@
 ideas.txt
-.pyc
+*.pyc
 venv
+*.sqlite3
+migrations
